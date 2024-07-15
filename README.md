@@ -1,3 +1,4 @@
 # firstproject-demo
-This is my first Git Repository
-Auther - Priya 
+This is my first Git Repository.
+<br>
+Auther - Priya Das
